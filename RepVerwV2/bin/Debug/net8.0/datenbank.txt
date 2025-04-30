@@ -1,0 +1,4 @@
+G:1;test;123456789
+G:2;test1;987654321
+A:1;1;defekt1;Abgeschlossen;30.04.2025 09:09:05
+A:2;2;defekt2;Abgeschlossen;30.04.2025 09:09:15

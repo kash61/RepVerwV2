@@ -1,0 +1,5 @@
+1;Jura Impressa Z10;SNKAFFEE001
+2;Sage Barista Pro;SNKAFFEE002
+3;DeLonghi Magnifica S;SNKAFFEE003
+4;WMF 1500 S+;SNKAFFEE004
+5;La Marzocco Linea Mini;SNKAFFEE005

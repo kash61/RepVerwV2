@@ -1,0 +1,5 @@
+1;1;Heizt nicht mehr auf;Offen;30.04.2025 08:42:00
+2;2;Milchschaumdüse blockiert;In Bearbeitung;29.04.2025 14:10:00
+3;3;Wasser läuft aus dem Gehäuse;Warten auf Ersatzteil;27.04.2025 16:55:00
+4;4;Display zeigt Fehlercode E05;Abgeschlossen;28.04.2025 11:20:00
+5;5;Brühgruppe klemmt beim Einschalten;Offen;30.04.2025 09:18:00
