@@ -31,3 +31,6 @@ Ein einfaches Konsolenprogramm zur Verwaltung von Reparaturaufträgen für Kaffe
 2. Anwendung ausführen:
    ```bash
    dotnet run
+
+## 💬 Discord 
+kash561
